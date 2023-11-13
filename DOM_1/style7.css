@@ -1,0 +1,11 @@
+
+.square {
+  width: 100px;
+  height: 100px;
+  background-color: red;
+  transition: all 0.3s ease;
+}
+
+.square:hover {
+  border-radius: 50%;
+}

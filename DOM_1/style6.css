@@ -1,0 +1,7 @@
+.newDiv {
+    width: 100px;
+    height: 100px;
+    background-color: rgb(230, 173, 190);
+    margin-top: 10px;
+    border-radius: 50%;
+  }

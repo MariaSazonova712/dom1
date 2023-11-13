@@ -1,0 +1,15 @@
+input {
+    margin-top: 10px;
+    background-color: rgb(243, 236, 250);
+    border: solid 1px rgb(230, 216, 245);
+    border-radius: 5px;
+    height: 20px;
+    width: 200px;
+  }
+button {
+    background-color: rgb(226, 209, 244);
+    border: solid 1px rgb(214, 189, 240);
+    border-radius: 5px;
+    height: 20px;
+    width: 150px;
+}
